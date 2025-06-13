@@ -1,0 +1,14 @@
+C:\Users\marco\Desktop\Aula_7\Tarefa4\bin\Debug\net9.0\Tarefa4.exe
+C:\Users\marco\Desktop\Aula_7\Tarefa4\bin\Debug\net9.0\Tarefa4.deps.json
+C:\Users\marco\Desktop\Aula_7\Tarefa4\bin\Debug\net9.0\Tarefa4.runtimeconfig.json
+C:\Users\marco\Desktop\Aula_7\Tarefa4\bin\Debug\net9.0\Tarefa4.dll
+C:\Users\marco\Desktop\Aula_7\Tarefa4\bin\Debug\net9.0\Tarefa4.pdb
+C:\Users\marco\Desktop\Aula_7\Tarefa4\obj\Debug\net9.0\Tarefa4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\Aula_7\Tarefa4\obj\Debug\net9.0\Tarefa4.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\Aula_7\Tarefa4\obj\Debug\net9.0\Tarefa4.AssemblyInfo.cs
+C:\Users\marco\Desktop\Aula_7\Tarefa4\obj\Debug\net9.0\Tarefa4.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\Aula_7\Tarefa4\obj\Debug\net9.0\Tarefa4.dll
+C:\Users\marco\Desktop\Aula_7\Tarefa4\obj\Debug\net9.0\refint\Tarefa4.dll
+C:\Users\marco\Desktop\Aula_7\Tarefa4\obj\Debug\net9.0\Tarefa4.pdb
+C:\Users\marco\Desktop\Aula_7\Tarefa4\obj\Debug\net9.0\Tarefa4.genruntimeconfig.cache
+C:\Users\marco\Desktop\Aula_7\Tarefa4\obj\Debug\net9.0\ref\Tarefa4.dll

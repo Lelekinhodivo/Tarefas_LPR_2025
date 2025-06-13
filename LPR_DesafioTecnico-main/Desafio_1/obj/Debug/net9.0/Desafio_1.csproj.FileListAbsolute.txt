@@ -1,0 +1,14 @@
+C:\Users\marco\Desktop\Desafio Técnico_LPR\Desafio_1\bin\Debug\net9.0\Desafio_1.exe
+C:\Users\marco\Desktop\Desafio Técnico_LPR\Desafio_1\bin\Debug\net9.0\Desafio_1.deps.json
+C:\Users\marco\Desktop\Desafio Técnico_LPR\Desafio_1\bin\Debug\net9.0\Desafio_1.runtimeconfig.json
+C:\Users\marco\Desktop\Desafio Técnico_LPR\Desafio_1\bin\Debug\net9.0\Desafio_1.dll
+C:\Users\marco\Desktop\Desafio Técnico_LPR\Desafio_1\bin\Debug\net9.0\Desafio_1.pdb
+C:\Users\marco\Desktop\Desafio Técnico_LPR\Desafio_1\obj\Debug\net9.0\Desafio_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\Desafio Técnico_LPR\Desafio_1\obj\Debug\net9.0\Desafio_1.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\Desafio Técnico_LPR\Desafio_1\obj\Debug\net9.0\Desafio_1.AssemblyInfo.cs
+C:\Users\marco\Desktop\Desafio Técnico_LPR\Desafio_1\obj\Debug\net9.0\Desafio_1.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\Desafio Técnico_LPR\Desafio_1\obj\Debug\net9.0\Desafio_1.dll
+C:\Users\marco\Desktop\Desafio Técnico_LPR\Desafio_1\obj\Debug\net9.0\refint\Desafio_1.dll
+C:\Users\marco\Desktop\Desafio Técnico_LPR\Desafio_1\obj\Debug\net9.0\Desafio_1.pdb
+C:\Users\marco\Desktop\Desafio Técnico_LPR\Desafio_1\obj\Debug\net9.0\Desafio_1.genruntimeconfig.cache
+C:\Users\marco\Desktop\Desafio Técnico_LPR\Desafio_1\obj\Debug\net9.0\ref\Desafio_1.dll
